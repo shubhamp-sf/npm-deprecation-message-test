@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "shubhamp-sf",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shubhamp-sf/npm-deprecation-message-test"
+  }
 }
